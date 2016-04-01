@@ -1,0 +1,3 @@
+[submodule "PerformanceHistory"]
+	path = PerformanceHistory
+	url = https://github.com/nyphilarchive/PerformanceHistory.git
