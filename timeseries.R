@@ -9,5 +9,7 @@ d <- zscore(d)
 df <- data.frame(ts=I(d))
 rownames(df) <- composers
 
-some <- unlist(d[1])
-comp <- composers[1]
+
+some <- unlist(d[4])
+comp <- composers[4]
+stl(some)
