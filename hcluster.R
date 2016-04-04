@@ -1,6 +1,9 @@
 library(rjson)
 library(dtwclust)
 library(ape)
+library(RColorBrewer)
+library(colorspace)
+
 
 d <- fromJSON(file='~/Projects/nypposter/series.json')
 composers <- fromJSON(file='~/Projects/nypposter/composers.json')
@@ -28,6 +31,9 @@ composers_last <- sapply(custom_split, "[", 1)
   
 p$tip.label <- composers_last
 
+midpoints <- fromJSON(file='~/Projects/nypposter/midpoints.json')
+ix <- sort.int(midpoints, index.return=TRUE)$ix
+
 #svg("~/Projects/nypposter/figs/fan.svg")
-plot(p, type='fan', font=1)
+plot(p, type='fan', font=2, tip.color=pal(ix))
 #dev.off()
