@@ -20,9 +20,14 @@ hc.sbd <- dtwclust(datalist, type = "hierarchical",
 
 ward <- hc.sbd[[1]]
 
-p <- as.phylo(ward)
-p$tip.label <- composers
 
-svg("~/Projects/nypposter/figs/fan.svg")
+p <- as.phylo(ward)
+
+custom_split <- strsplit(composers, ",")
+composers_last <- sapply(custom_split, "[", 1)
+  
+p$tip.label <- composers_last
+
+#svg("~/Projects/nypposter/figs/fan.svg")
 plot(p, type='fan', font=1)
-dev.off()
+#dev.off()
