@@ -1,0 +1,968 @@
+source;target;weight
+Culp, Julia;Bos, Coenraad V.;79
+Phelps, Cynthia;Young, Rebecca;53
+Drucker, Stanley;LeClair, Judith;35
+LeClair, Judith;Myers, Philip;34
+Robinson, Joseph;Drucker, Stanley;33
+Cook, Barbara;Donovan, Peter;33
+Cook, Barbara;Saporito, James;33
+Robinson, Joseph;LeClair, Judith;32
+Robinson, Joseph;Myers, Philip;31
+Drucker, Stanley;Myers, Philip;30
+New York Choral Artists;American Boychoir, The;29
+Kaufman, Mindy;LeClair, Judith;28
+Dicterow, Glenn;Brey, Carter;27
+Dicterow, Glenn;Stacy, Thomas;26
+Phelps, Cynthia;Brey, Carter;25
+Kaufman, Mindy;Drucker, Stanley;25
+Corigliano, John, Sr.;Varga, Laszlo;25
+Stacy, Thomas;Sylar, Sherry;24
+Robinson, Joseph;Stacy, Thomas;24
+Carpenter, Mary Chapin;Jennings, John;24
+Saporito, James;Donovan, Peter;24
+Erskine, Peter;Jennings, John;23
+Jennings, John;Colley, Scott;23
+Douglas, Jerry;Jennings, John;23
+Carroll, Jon;Jennings, John;23
+Levine, Duke;Jennings, John;23
+Rollings, Matt;Jennings, John;23
+Piastro, Mishel;Schuster, Joseph;22
+Dicterow, Glenn;Neubauer, Paul;22
+Dicterow, Glenn;Kaufman, Mindy;22
+Whittemore, Arthur;Lowe, Jack;22
+Cook, Barbara;Musiker, Lee;22
+Stacy, Thomas;LeClair, Judith;22
+Dicterow, Glenn;Ginsberg, Marc;21
+Kaufman, Mindy;Stacy, Thomas;21
+Dicterow, Glenn;Phelps, Cynthia;21
+Levinson, Eugene;Kaufman, Mindy;21
+United States Marine Drum and Bugle Corps;New York Philharmonic;20
+Nordica, Lillian;Simmons, E. Romayne;20
+Kaufman, Mindy;Robinson, Joseph;20
+Myers, Philip;Spanjer, R. Allen;20
+Myers, Philip;Ralske, Erik;20
+Kaufman, Mindy;Bial, Bert;19
+Staples, Sheryl;Phelps, Cynthia;19
+Kaufman, Mindy;Freeman, Stephen;19
+Drucker, Stanley;Bial, Bert;19
+Kaufman, Mindy;Simenauer, Peter;19
+Dicterow, Glenn;Myers, Philip;19
+Drucker, Stanley;Freeman, Stephen;19
+Kaufman, Mindy;Myers, Philip;18
+Dicterow, Glenn;LeClair, Judith;18
+Ginsberg, Marc;Kaufman, Mindy;18
+Igudesman & Joo;Joo, Hyung-ki;18
+Dicterow, Glenn;Robinson, Joseph;18
+Neubauer, Paul;Kaufman, Mindy;18
+Smith, Philip;Alessi, Joseph;18
+Wummer, John;Gomberg, Harold;18
+Staples, Sheryl;Brey, Carter;17
+Igudesman & Joo;Igudesman, Aleksey;17
+Igudesman, Aleksey;Joo, Hyung-ki;17
+Levinson, Eugene;LeClair, Judith;17
+Robinson, Joseph;Bial, Bert;17
+Corigliano, John, Sr.;Gomberg, Harold;17
+LeClair, Judith;Bial, Bert;17
+Dicterow, Glenn;Levinson, Eugene;17
+Myers, Philip;Carabella, John;17
+Labate, Bruno;Kohon, Benjamin;17
+Drucker, Stanley;Carabella, John;16
+Stacy, Thomas;Myers, Philip;16
+Ginsberg, Marc;Levinson, Eugene;16
+Bial, Bert;Myers, Philip;16
+Robinson, Joseph;Carabella, John;16
+Bellison, Simeon;Kohon, Benjamin;16
+Labate, Bruno;Bellison, Simeon;16
+Simenauer, Peter;Myers, Philip;15
+Simenauer, Peter;Freeman, Stephen;15
+Spanjer, R. Allen;Wall, Howard;15
+Amans, John;Bellison, Simeon;15
+Freeman, Stephen;Bial, Bert;15
+Kaufman, Mindy;Carabella, John;15
+Bial, Bert;Carabella, John;15
+Musiker, Lee;Saporito, James;15
+Piastro, Mishel;Wallenstein, Alfred;15
+Labate, Bruno;Jaenicke, Bruno;15
+Young, Rebecca;Brey, Carter;15
+Musiker, Lee;Donovan, Peter;15
+Ginsberg, Marc;Neubauer, Paul;15
+Simenauer, Peter;Bial, Bert;15
+Neubauer, Paul;Levinson, Eugene;15
+Ginsberg, Marc;LeClair, Judith;15
+Bellison, Simeon;Jaenicke, Bruno;15
+Myers, Philip;Wall, Howard;15
+Robinson, Joseph;Simenauer, Peter;15
+Carpenter, Mary Chapin;Levine, Duke;14
+Brey, Carter;Party, Lionel;14
+Charlap, Bill;De Rosa, Richard;14
+Mulligan, Gerry;Charlap, Bill;14
+Robinson, Joseph;Freeman, Stephen;14
+Dicterow, Glenn;Simenauer, Peter;14
+Stacy, Thomas;Bial, Bert;14
+Mulligan Quartet, The Gerry;Johnson, Dean;14
+Dicterow, Glenn;Munroe, Lorne;14
+Carpenter, Mary Chapin;Douglas, Jerry;14
+Mulligan Quartet, The Gerry;Charlap, Bill;14
+Dicterow, Glenn;Drucker, Stanley;14
+Levinson, Eugene;Drucker, Stanley;14
+Botti, Robert;LeClair, Judith;14
+Corigliano, John, Sr.;Wummer, John;14
+Johnson, Dean;De Rosa, Richard;14
+Simenauer, Peter;LeClair, Judith;14
+Carpenter, Mary Chapin;Carroll, Jon;14
+Stacy, Thomas;Simenauer, Peter;14
+Stacy, Thomas;Drucker, Stanley;14
+Stacy, Thomas;Freeman, Stephen;14
+Freeman, Stephen;LeClair, Judith;14
+Mulligan Quartet, The Gerry;De Rosa, Richard;14
+Mulligan, Gerry;De Rosa, Richard;14
+Dicterow, Glenn;Sylar, Sherry;14
+Harrell, Mack;Westminster Choir;14
+Mulligan, Gerry;Johnson, Dean;14
+Amans, John;Labate, Bruno;14
+Charlap, Bill;Johnson, Dean;14
+LeClair, Judith;Carabella, John;14
+Amans, John;Kohon, Benjamin;13
+Rollings, Matt;Levine, Duke;13
+Bernstein, Leonard;Corigliano, John, Sr.;13
+Ginsberg, Marc;Freeman, Stephen;13
+Kohon, Benjamin;Jaenicke, Bruno;13
+Neubauer, Paul;Robinson, Joseph;13
+Dicterow, Glenn;Bial, Bert;13
+Dicterow, Glenn;Freeman, Stephen;13
+Ginsberg, Marc;Simenauer, Peter;13
+Drucker, Stanley;Simenauer, Peter;13
+Mulligan, Gerry;Mulligan Quartet, The Gerry;13
+Ralske, Erik;Wall, Howard;13
+Ginsberg, Marc;Bial, Bert;13
+Quivar, Florence;New York Choral Artists;13
+Levinson, Eugene;Simenauer, Peter;13
+Munroe, Lorne;Kaufman, Mindy;13
+Ginsberg, Marc;Munroe, Lorne;13
+Staples, Sheryl;Young, Rebecca;13
+Ginsberg, Marc;Drucker, Stanley;13
+Neubauer, Paul;LeClair, Judith;13
+Neubauer, Paul;Stacy, Thomas;13
+Neubauer, Paul;Simenauer, Peter;13
+Neubauer, Paul;Drucker, Stanley;13
+Levinson, Eugene;Bial, Bert;13
+Neubauer, Paul;Freeman, Stephen;13
+Levinson, Eugene;Stacy, Thomas;13
+Carpenter, Mary Chapin;Rollings, Matt;13
+Ginsberg, Marc;Stacy, Thomas;13
+Staples, Sheryl;Kim, Michelle;13
+Ginsberg, Marc;Robinson, Joseph;13
+Levinson, Eugene;Freeman, Stephen;13
+Freeman, Stephen;Myers, Philip;13
+Brey, Carter;Levinson, Eugene;13
+Neubauer, Paul;Bial, Bert;13
+Levinson, Eugene;Robinson, Joseph;13
+Stacy, Thomas;Kossoff, David;12
+Kim, Lisa;Young, Rebecca;12
+Erskine, Peter;Levine, Duke;12
+Douglas, Jerry;Levine, Duke;12
+Gomberg, Harold;Polisi, William;12
+Bernstein, Leonard;Varga, Laszlo;12
+Robinson, Joseph;Smith, Philip;12
+Kossoff, David;Darlington, Dorothy;12
+Erskine, Peter;Colley, Scott;12
+Wummer, John;Vacchiano, William;12
+Corigliano, John, Sr.;Lincer, William;12
+Cochrane, Eleanore;Karle, Theo;12
+Stacy, Thomas;Levinson, Eugene;12
+Nuccio, Mark;LeClair, Judith;12
+Levinson, Eugene;Party, Lionel;12
+Erskine, Peter;Rollings, Matt;12
+Neubauer, Paul;Myers, Philip;12
+Douglas, Jerry;Colley, Scott;12
+Rollings, Matt;Colley, Scott;12
+Ginsberg, Marc;Myers, Philip;12
+Rollings, Matt;Carroll, Jon;12
+Levinson, Eugene;Myers, Philip;12
+Sylar, Sherry;Darlington, Dorothy;12
+Stacy, Thomas;Carabella, John;12
+Douglas, Jerry;Erskine, Peter;12
+Erskine, Peter;Carroll, Jon;12
+Amans, John;Jaenicke, Bruno;12
+Stacy, Thomas;Darlington, Dorothy;12
+Freeman, Stephen;Carabella, John;12
+Simenauer, Peter;Carabella, John;12
+Smith, Philip;Stacy, Thomas;12
+Douglas, Jerry;Carroll, Jon;12
+Douglas, Jerry;Rollings, Matt;12
+Carroll, Jon;Colley, Scott;12
+Levine, Duke;Colley, Scott;12
+Sylar, Sherry;Kossoff, David;12
+Wang, Liang;LeClair, Judith;12
+LeClair, Judith;Ralske, Erik;12
+Griffey, Anthony Dean;New York Choral Artists;12
+Maule, Michael;Montanaro, Tony;11
+Sylar, Sherry;LeClair, Judith;11
+Wang, Liang;Myers, Philip;11
+Dicterow, Glenn;Carabella, John;11
+New York Choral Artists;Brooklyn Youth Chorus;11
+Munroe, Lorne;Levinson, Eugene;11
+Neubauer, Paul;Carabella, John;11
+Levine, Duke;Carroll, Jon;11
+Spanjer, R. Allen;Ralske, Erik;11
+Dicterow, Glenn;Young, Rebecca;11
+Carpenter, Mary Chapin;Erskine, Peter;11
+Conner, Nadine;Westminster Choir;11
+Osnes, Laura;Fontana, Santino;11
+Kim, Michelle;Brey, Carter;11
+Wilde, Patricia;Maule, Michael;11
+Church, Sandra;Robinson, Joseph;11
+Wilde, Patricia;Montanaro, Tony;11
+Jennings, John;Jennings, John;11
+Munroe, Lorne;Drucker, Stanley;11
+Alessi, Joseph;Deck, Warren;11
+Munroe, Lorne;Freeman, Stephen;11
+Munroe, Lorne;LeClair, Judith;11
+Corigliano, John, Sr.;Rose, Leonard;11
+Levinson, Eugene;Carabella, John;11
+Ginsberg, Marc;Carabella, John;11
+Carpenter, Mary Chapin;Colley, Scott;11
+Munroe, Lorne;Simenauer, Peter;10
+Stacy, Thomas;Davidoff, Judith;10
+Munroe, Lorne;Bial, Bert;10
+Sylar, Sherry;Party, Lionel;10
+Botti, Robert;Stacy, Thomas;10
+Hain, William;Westminster Choir;10
+Steber, Eleanor;Westminster Choir;10
+Munroe, Lorne;Carabella, John;10
+Ginsberg, Marc;Young, Rebecca;10
+Munroe, Lorne;Stacy, Thomas;10
+Kim, Lisa;Brey, Carter;10
+Smith, Philip;Deck, Warren;10
+Stacy, Thomas;Party, Lionel;10
+Piastro, Mishel;Pogany, Imre;10
+Young, Rebecca;Moon, Eileen;10
+Piastro, Mishel;Bolognini, Remo;10
+Neubauer, Paul;Munroe, Lorne;10
+Drucker, Stanley;Herman, Edward, Jr.;10
+Munroe, Lorne;Robinson, Joseph;10
+Stacy, Thomas;Brey, Carter;10
+Sylar, Sherry;Levinson, Eugene;10
+Sylar, Sherry;Deak, Jon;10
+Sylar, Sherry;Davidoff, Judith;10
+Robinson, Joseph;Ralske, Erik;9
+Gold, Arthur;Fizdale, Robert;9
+Gomberg, Harold;Vacchiano, William;9
+Drucker, Stanley;Ralske, Erik;9
+Kim, Michelle;Young, Rebecca;9
+Munroe, Lorne;Myers, Philip;9
+Kudo, Sumire;Okamoto, Satoshi;9
+Gerhardt, Elena;Golde, Walter H.;9
+Aler, John;New York Choral Artists;9
+Drucker, Stanley;Zegler, Manuel;9
+Rosenberger, Walter;Bailey, Elden;9
+Westminster Symphonic Choir;Smith, Philip;9
+Okamoto, Satoshi;Bordignon, Paolo;9
+Donovan, Peter;Saporito, James;9
+Szantho, Enid;Westminster Choir;9
+Botti, Robert;Sylar, Sherry;9
+Botti, Robert;Party, Lionel;9
+Kaufman, Mindy;Kaufman, Mindy;9
+Rex, Charles;Gordon, Kenneth;9
+Staples, Sheryl;Kim, Lisa;9
+Phillips, Mary;Griffey, Anthony Dean;9
+Gomberg, Harold;Zegler, Manuel;9
+Munroe, Lorne;Greitzer, Sol;9
+Phillips, Mary;New York Choral Artists;9
+Kudo, Sumire;Bordignon, Paolo;9
+Botti, Robert;Spanjer, R. Allen;9
+Lloyd, Margaret;New York Choral Artists;8
+Bartlett, Ethel;Robertson, Rae;8
+Stacy, Thomas;Deak, Jon;8
+Lloyd, Margaret;American Boychoir, The;8
+Kaufman, Mindy;Wingreen, Harriet;8
+Kaufman, Mindy;Smith, Philip;8
+Markert, Annette;Olsen, Stanford;8
+O'Hara, Kelli;Gunn, Nathan;8
+Kim, Michelle;Phelps, Cynthia;8
+Underwood, Keith;Stacy, Thomas;8
+Lloyd, Margaret;Phillips, Mary;8
+New York Choral Artists;Smith, Philip;8
+Keillor, Garrison;DiGiallonardo , Christine;8
+Sylar, Sherry;Brey, Carter;8
+Neill, Stuart;New York Choral Artists;8
+Sykes, Jubilant;American Boychoir, The;8
+Phillips, Mary;Sykes, Jubilant;8
+Phillips, Mary;American Boychoir, The;8
+Stern, Nina;Sylar, Sherry;8
+Lloyd, Margaret;Sykes, Jubilant;8
+Dicterow, Glenn;Ralske, Erik;8
+Underwood, Keith;Sylar, Sherry;8
+Levinson, Eugene;Ralske, Erik;8
+Smith, Philip;Sullivan, Robert;8
+Staples, Sheryl;Moon, Eileen;8
+Blegen, Judith;Wadsworth, Charles;8
+Schorr, Friedrich;Walter, Bruno;8
+Kaufman, Mindy;Ralske, Erik;8
+Lloyd, Margaret;Griffey, Anthony Dean;8
+Guidi, Scipione;Lange, Hans;8
+Ashby, Jerome;Alessi, Joseph;8
+Simenauer, Peter;Ralske, Erik;8
+Drucker, Stanley;Wingreen, Harriet;8
+Carpenter, Mary Chapin;O'Donovan, Aoife;8
+Kaufman, Mindy;Ashby, Jerome;8
+Neubauer, Paul;Ralske, Erik;8
+Ginsberg, Marc;Ralske, Erik;8
+Stacy, Thomas;Ralske, Erik;8
+Brook, Paige;Herman, Edward, Jr.;8
+Ashby, Jerome;Deck, Warren;8
+Gomberg, Harold;McGinnis, Robert;8
+Staples, Sheryl;Party, Lionel;8
+Botti, Robert;Levinson, Eugene;8
+Kim, Lisa;Phelps, Cynthia;8
+Stern, Nina;Stacy, Thomas;8
+Bial, Bert;Ralske, Erik;8
+Gomberg, Harold;Chambers, James;8
+Church, Sandra;Stacy, Thomas;8
+Brey, Carter;Tritle, Kent;8
+Moscona, Nicola;Westminster Choir;8
+Sykes, Jubilant;New York Choral Artists;8
+Griffey, Anthony Dean;Sykes, Jubilant;8
+Robinson, Joseph;Sylar, Sherry;8
+Drucker, Stanley;Smith, Philip;8
+Alessi, Joseph;Grossman, David J.;8
+Alda, Frances;La Forge, Frank;8
+Carabella, John;Ralske, Erik;8
+Bolognini, Remo;Wallenstein, Alfred;8
+Piastro, Mishel;Corigliano, John, Sr.;8
+Freeman, Stephen;Ralske, Erik;8
+Griffey, Anthony Dean;American Boychoir, The;8
+Ginsberg, Marc;Brey, Carter;8
+De Intinis, Rainer;Facenda, Aubrey;7
+Olsen, Stanford;New York Choral Artists;7
+LeClair, Judith;Party, Lionel;7
+Ginsberg, Marc;Phelps, Cynthia;7
+Smith, Philip;Tritle, Kent;7
+Carabella, John;De Intinis, Rainer;7
+Piastro, Mishel;Kurthy, Zoltan;7
+Tourel, Jennie;Westminster Choir;7
+Little Church Around the Corner Boys' Choir;Trinity Boys' Choir;7
+Ware, John;Herman, Edward, Jr.;7
+Myers, Philip;Alessi, Joseph;7
+Alessi, Joseph;Lamb, Christopher S.;7
+Smith, Philip;Wingreen, Harriet;7
+Keillor, Garrison;Dworsky, Richard;7
+Laskowski, Kim;Tritle, Kent;7
+Munroe, Lorne;Ralske, Erik;7
+Lloyd, David;Westminster Choir;7
+Wang, Liang;Botti, Robert;7
+London, George;Schola Cantorum of NY;7
+Botti, Robert;Myers, Philip;7
+Neill, Stuart;American Boychoir, The;7
+Party, Lionel;Tritle, Kent;7
+Owens, Eric;New York Choral Artists;7
+Deak, Jon;Tritle, Kent;7
+Forrester, Maureen;Westminster Choir;7
+Church, Sandra;Party, Lionel;7
+Cochrane, Eleanore;Townsend, Ruth;7
+Baker, Julius;Drucker, Stanley;7
+Schumann-Heink, Ernestine;Paur, Emil;7
+McGinnis, Robert;Chambers, James;7
+Kim, Myung-Hi;Kruglikov, Marina;7
+Westminster Symphonic Choir;American Boychoir, The;7
+Lipton, Martha;Westminster Choir;7
+Kurthy, Zoltan;Schuster, Joseph;7
+Wolfe, Betsy;Samonsky, Andrew;7
+Rosenberger, Walter;Lang, Morris;7
+Sullivan, Robert;Alessi, Joseph;7
+Guidi, Scipione;Van Vliet, Cornelius;7
+Wummer, John;McGinnis, Robert;7
+Brey, Carter;Phelps, Cynthia;7
+Alessi, Joseph;Finlayson, David;7
+Church, Sandra;Smith, Philip;7
+Church, Sandra;LeClair, Judith;7
+Botti, Robert;Brey, Carter;7
+Ashby, Jerome;Smith, Philip;7
+Sylar, Sherry;Stepansky, Alan;7
+LeClair, Judith;Spanjer, R. Allen;7
+Merriman, Nan;Westminster Choir;7
+Carabella, John;Facenda, Aubrey;7
+Robinson, Joseph;Botti, Robert;7
+Alvary, Lorenzo;Westminster Choir;7
+Bocelli, Andrea;Westminster Symphonic Choir;7
+Westminster Symphonic Choir;Tritle, Kent;6
+Underwood, Keith;Kossoff, David;6
+Olsen, Stanford;Sylar, Sherry;6
+Kossoff, David;Stepansky, Alan;6
+Sylar, Sherry;Kaufman, Mindy;6
+Merritt, Tift;Jennings, John;6
+Deak, Jon;Bordignon, Paolo;6
+Lamb, Christopher S.;Druckman, Daniel;6
+Cochrane, Eleanore;Dadmun, Royal;6
+McGinnis, Robert;Polisi, William;6
+Conner, Nadine;Harrell, Mack;6
+Kyle, John A.;Wiese, Frederick;6
+Kaufman, Mindy;Kossoff, David;6
+Barozzi, Socrate;Kurthy, Zoltan;6
+Battle, Kathleen;Boys Choir of Harlem, The;6
+O'Donovan, Aoife;Jennings, John;6
+Battle, Kathleen;Westminster Choir;6
+Nuccio, Mark;Ralske, Erik;6
+Kaufman, Mindy;Gomez, Lino;6
+Thomanerchor Leipzig;Stacy, Thomas;6
+Estrin, Harvey;Estrin, Harvey;6
+Dicterow, Glenn;Darlington, Dorothy;6
+Barozzi, Socrate;Schuster, Joseph;6
+Levinson, Eugene;Kossoff, David;6
+Pogany, Imre;Wallenstein, Alfred;6
+Yeend, Frances;Lloyd, David;6
+Varga, Laszlo;Gomberg, Harold;6
+Rex, Charles;Kossoff, David;6
+Donovan, Peter;Musiker, Lee;6
+Robinson, Joseph;Darlington, Dorothy;6
+Staples, Sheryl;Ginsberg, Marc;6
+DiGiallonardo , Christine;Dworsky, Richard;6
+Laskowski, Kim;Smith, Philip;6
+Markert, Annette;Sylar, Sherry;6
+Lloyd, David;Harrell, Mack;6
+Wummer, John;Chambers, James;6
+Stacy, Thomas;Stepansky, Alan;6
+Sullivan, Robert;Penzarella, Vincent;6
+Dicterow, Glenn;Botti, Robert;6
+McDermott, Kerry;Takebe, Yoko;6
+Drucker, Stanley;Jacobs, Paul;6
+Church, Sandra;Kossoff, David;6
+Kim, Michelle;Kim, Lisa;6
+Alessi, Joseph;Harwood, Donald;6
+Langevin, Robert;Sylar, Sherry;6
+Pogany, Imre;Schuster, Joseph;6
+Timchenko, Alexander;Chorus of the Mariinsky Theatre;6
+Saporito, James;Musiker, Lee;6
+Ashby, Jerome;Finlayson, David;6
+Bispham, David Scull;Harris, Victor;6
+Underwood, Keith;Darlington, Dorothy;6
+Plishka, Paul;New York Choral Artists;6
+Church, Sandra;Darlington, Dorothy;6
+Estes, Simon;Westminster Choir;6
+Rex, Charles;Robinson, Joseph;6
+Stacy, Thomas;Smith, Philip;6
+McNair, Sylvia;Sylar, Sherry;6
+Quivar, Florence;American Boychoir, The;6
+Wolff, Beverly;Westminster Choir;6
+Rex, Charles;Darlington, Dorothy;6
+Stacy, Thomas;Carroll, David;6
+Sylar, Sherry;Rex, Charles;6
+Church, Sandra;Sylar, Sherry;6
+Kossoff, David;Davidoff, Judith;6
+Penzarella, Vincent;Alessi, Joseph;6
+Phelps, Cynthia;Levinson, Eugene;6
+Rosen, Myor;Jacobs, Paul;6
+Abyssinian Sanctuary Choir;All-City Singers;6
+Ashby, Jerome;Penzarella, Vincent;6
+Simon, Fiona;Takebe, Yoko;6
+Stacy, Thomas;Tritle, Kent;6
+McDermott, Kerry;Simon, Fiona;6
+Stern, Nina;Kossoff, David;6
+LeClair, Judith;Kossoff, David;6
+Stern, Nina;Darlington, Dorothy;6
+Thomanerchor Leipzig;Sylar, Sherry;6
+Robinson, Joseph;Kossoff, David;6
+Darlington, Dorothy;Stepansky, Alan;6
+American Boychoir, The;Stacy, Thomas;6
+Sylar, Sherry;Carroll, David;6
+Goltzer, Harold;Herman, Edward, Jr.;6
+Drucker, Stanley;De Intinis, Rainer;6
+Valente, Benita;New York Choral Artists;6
+Darlington, Dorothy;Deak, Jon;6
+Carpenter, Mary Chapin;Colvin, Shawn;6
+Botti, Robert;Darlington, Dorothy;6
+Kaufman, Mindy;Darlington, Dorothy;6
+Darlington, Dorothy;Davidoff, Judith;6
+Baez, Joan;Jennings, John;6
+Olsen, Stanford;Stacy, Thomas;6
+Allen, Betty;Wadsworth, Charles;6
+Stacy, Thomas;Ikuma, Keisuke;6
+Colvin, Shawn;Jennings, John;6
+Levinson, Eugene;Darlington, Dorothy;6
+Brook, Paige;Drucker, Stanley;6
+Piastro, Mishel;Barozzi, Socrate;6
+Smith, Philip;Penzarella, Vincent;6
+Sylar, Sherry;Ikuma, Keisuke;6
+Kossoff, David;Deak, Jon;6
+McNair, Sylvia;Stacy, Thomas;6
+Wang, Liang;Spanjer, R. Allen;6
+LeClair, Judith;Darlington, Dorothy;6
+Gomberg, Harold;Drucker, Stanley;6
+Dicterow, Glenn;Church, Sandra;6
+Bordignon, Paolo;Tritle, Kent;6
+Kim, Michelle;Moon, Eileen;6
+Markert, Annette;Stacy, Thomas;6
+Phelps, Cynthia;Moon, Eileen;6
+Kossoff, David;Carroll, David;6
+Sullivan, Robert;Deck, Warren;6
+Fitch, Douglas;Fitch, Douglas;6
+Nuccio, Mark;Myers, Philip;6
+Gilbert, Alan;Brey, Carter;6
+Botti, Robert;Kossoff, David;6
+Stacy, Thomas;Rex, Charles;6
+Stacy, Thomas;Kaufman, Mindy;6
+Levinson, Eugene;Tritle, Kent;6
+Darlington, Dorothy;Carroll, David;6
+Dicterow, Glenn;Kossoff, David;6
+Simon, Fiona;Tu, Qiang;5
+Rogers, Reuben;Carrington, Terri Lynne;5
+Dicterow, Glenn;Kim, Lisa;5
+Fitch, Douglas;Parks, Melissa;5
+Kurt, Melanie;Hoff, Anton;5
+Conner, Nadine;Alvary, Lorenzo;5
+Westminster Symphonic Choir;Bordignon, Paolo;5
+Kuney, Scott;Meade, Dave;5
+Olsen, Stanford;Brey, Carter;5
+Brey, Carter;Laskowski, Kim;5
+Botti, Robert;Deak, Jon;5
+LeClair, Judith;Tritle, Kent;5
+Young, Rebecca;Levinson, Eugene;5
+Kemp, Erin;Wesby, Carla;5
+Borg, Julianne;New York Choral Artists;5
+Fitch, Douglas;Bloom, Joshua;5
+Alda, Frances;Ballard, Erin;5
+Karle, Theo;Dadmun, Royal;5
+Baker, Julius;Freeman, Stephen;5
+Drucker, Stanley;Ashby, Jerome;5
+Falcone, Mario;Haines, LeRoy (Roy);5
+Smith, Philip;Finlayson, David;5
+Bellson, Louis;Lamb, John;5
+Stutch, Nathan;Jacobs, Paul;5
+Davis, Leonard;Drucker, Stanley;5
+Penzarella, Vincent;Finlayson, David;5
+Baird, Thomas;Magario, Tomiko;5
+Drucker, Stanley;Goltzer, Harold;5
+Friend, Rodney;Munroe, Lorne;5
+Engle, Lori;Stevens, Lara;5
+Guidi, Scipione;Pogany, Imre;5
+Yeend, Frances;Lipton, Martha;5
+Dicterow, Glenn;Davidoff, Judith;5
+Falcone, Mario;Lucas, George;5
+Ashby, Jerome;Harwood, Donald;5
+Aler, John;Stacy, Thomas;5
+Van Vliet, Cornelius;Barzin, Leon;5
+Modern Jazz Quartet;Lewis, John;5
+Dicterow, Glenn;Staples, Sheryl;5
+Reeves, Dianne;Rogers, Reuben;5
+Corigliano, John, Sr.;Rosenker, Michael;5
+Kemp, Erin;Engle, Lori;5
+Robinson, Joseph;Wingreen, Harriet;5
+Tu, Qiang;Deak, Jon;5
+Jackson, Milt;Heath, Percy;5
+Simon, Fiona;Nelson, Judith;5
+Watson, Jean;Westminster Choir;5
+Olsen, Stanford;Levinson, Eugene;5
+New York Choral Artists;Brooklyn Boys' Chorus;5
+Martinez, Margarita;Kemp, Erin;5
+Robinson, Joseph;Levinson, Eugene;5
+Hain, William;Corigliano, John, Sr.;5
+Little Church Around the Corner Boys' Choir;Brooklyn Boys' Chorus;5
+Gramm, Donald;Camerata Singers, The;5
+Corigliano, John, Sr.;Vacchiano, William;5
+Rubinstein Club Chorus;Apollo Club Chorus;5
+Lewis, John;Jackson, Milt;5
+Hubbard, Tom;Meade, Dave;5
+Kim, Lisa;Moon, Eileen;5
+Martin, Peter;Rogers, Reuben;5
+Martinez, Margarita;Stevens, Lara;5
+Reeves, Dianne;Carrington, Terri Lynne;5
+Schwarz, Gerard;Herman, Edward, Jr.;5
+Milnes, Sherrill;New York Choral Artists;5
+Brewer, Christine;New York Choral Artists;5
+Hubbard, Tom;Kuney, Scott;5
+Guidi, Scipione;Wallenstein, Alfred;5
+Grossman, David J.;Lamb, Christopher S.;5
+Murphy, Heidi Grant;American Boychoir, The;5
+Martin, Peter;Carrington, Terri Lynne;5
+Brook, Paige;Ware, John;5
+Murphy, Heidi Grant;New York Choral Artists;5
+Drucker, Stanley;Burgio, Michael;5
+Staples, Sheryl;Levinson, Eugene;5
+Trinity Boys' Choir;Brooklyn Boys' Chorus;5
+Rex, Charles;Brook, Paige;5
+Stritch, Billy;Kuney, Scott;5
+Wang, Liang;Nye, Roger;5
+Modern Jazz Quartet;Jackson, Milt;5
+New York Choral Artists;Dicterow, Glenn;5
+Westminster Symphonic Choir;Laskowski, Kim;5
+Keller, Marthe;American Boychoir, The;5
+Szantho, Enid;Moscona, Nicola;5
+DeLoach, Marcus;New York Choral Artists;5
+Stueckgold, Grete;Walter, Bruno;5
+Schuster, Joseph;Kurthy, Zoltan;5
+Kemp, Erin;Stevens, Lara;5
+Wallenstein, Alfred;Pollain, Rene;5
+Wesby, Carla;Stevens, Lara;5
+Terfel, Bryn;Westminster Symphonic Choir;5
+Ginsberg, Marc;Kim, Lisa;5
+Cheek, John;New York Choral Artists;5
+Szot, Paulo;Hubbard, Tom;5
+Reeves, Dianne;Martin, Peter;5
+Martinez, Margarita;Engle, Lori;5
+Fitch, Douglas;Pauley, Wilbur;5
+American Boychoir, The;Smith, Philip;5
+Olsen, Stanford;Party, Lionel;5
+Appleman, Gerald K.;Kaufman, Mindy;5
+Arroyo, Martina;Camerata Singers, The;5
+Deak, Jon;Laskowski, Kim;5
+Heath, Percy;Kay, Connie;5
+Steber, Eleanor;Moscona, Nicola;5
+Dicterow, Glenn;Party, Lionel;5
+Fremstad, Olive;Van Lier, Lina Coen;5
+Horne, Marilyn;New York Choral Artists;5
+Quivar, Florence;Smith, Philip;5
+Corigliano, John, Sr.;Polisi, William;5
+Pinza, Ezio;Schola Cantorum of NY;5
+Lewis, John;Heath, Percy;5
+Druckman, Daniel;Charlston, Erik;5
+Modern Jazz Quartet;Heath, Percy;5
+Bailey, Elden;Lang, Morris;5
+Robinson, Joseph;Ashby, Jerome;5
+Metzger, Ottilie;Janaushek, William;5
+LeClair, Judith;Wingreen, Harriet;5
+Jackson, Milt;Kay, Connie;5
+Lewis, John;Kay, Connie;5
+Drucker, Stanley;Ware, John;5
+Botti, Robert;Nye, Roger;5
+Ginsberg, Marc;Moon, Eileen;5
+Casadesus, Robert;Casadesus, Gaby;5
+Simpson, Marietta;American Boychoir, The;5
+Battle, Kathleen;New York Choral Artists;5
+Stritch, Billy;Meade, Dave;5
+Simon, Fiona;Deak, Jon;5
+Westminster Symphonic Choir;Deak, Jon;5
+Sylar, Sherry;Sylar, Sherry;5
+Szot, Paulo;Meade, Dave;5
+Conner, Nadine;Watson, Jean;5
+Alessi, Joseph;Cobb, Timothy;5
+Stritch, Billy;Hubbard, Tom;5
+Nelson, Judith;Tu, Qiang;5
+Druckman, Daniel;Gottlieb, Gordon;5
+Wesby, Carla;Engle, Lori;5
+Martinez, Margarita;Wesby, Carla;5
+Brook, Paige;Robinson, Joseph;5
+McNair, Sylvia;New York Choral Artists;5
+Modern Jazz Quartet;Kay, Connie;5
+Steber, Eleanor;Szantho, Enid;5
+Hain, William;Alvary, Lorenzo;5
+Szot, Paulo;Stritch, Billy;5
+Penzarella, Vincent;Deck, Warren;5
+Laredo, Jaime;Parnas, Leslie;5
+Schulz, Leo;Kastner, Alfred;5
+Szot, Paulo;Kuney, Scott;5
+Cella, Theodore;Bellison, Simeon;5
+Laskowski, Kim;Bordignon, Paolo;5
+Riegel, Kenneth;Westminster Choir;5
+Grossman, David J.;Cobb, Timothy;5
+Wiens, Edith;New York Choral Artists;5
+Anastasio, Trey;Anastasio, Trey;5
+Stacy, Thomas;Stacy, Thomas;5
+Thomanerchor Leipzig;Botti, Robert;4
+Levinson, Eugene;Davidoff, Judith;4
+Roth, Jerome;Carabella, John;4
+Ludwig, Christa;Berry, Walter;4
+Vacchiano, William;Bailey, Elden;4
+Alvary, Lorenzo;Corigliano, John, Sr.;4
+Wummer, John;Westminster Choir;4
+Sullivan, Robert;Finlayson, David;4
+Varga, Laszlo;Lincer, William;4
+Cella, Theodore;Wummer, John;4
+Church, Sandra;Davidoff, Judith;4
+Meader, George;Bos, Coenraad V.;4
+Varnay, Astrid;Vinay, Ramon;4
+Faust, Isabelle;Okamoto, Satoshi;4
+Baxtresser, Jeanne;Stacy, Thomas;4
+American Boychoir, The;Davidoff, Judith;4
+Baird, Thomas;Lipson Bell, Heather;4
+Nye, Roger;Myers, Philip;4
+Brockman, Jane;Victor, Idara;4
+Hain, William;Wummer, John;4
+Staples, Sheryl;Gilbert, Alan;4
+Shirley-Quirk, John;Westminster Choir;4
+Langevin, Robert;Party, Lionel;4
+Deane, Richard;Alessi, Joseph;4
+Sylar, Sherry;Dallessio, Richard;4
+Clauson, William;Audience;4
+Jacobs, Paul;Rosenberger, Walter;4
+Goerke, Christine;Orfeon Donostiarria;4
+Stepansky, Alan;Deak, Jon;4
+Underwood, Keith;Deak, Jon;4
+Allen, Betty;Little Church Around the Corner Boys' Choir;4
+Wiese, Frederick;Reiff, Anton, Sr.;4
+Wummer, John;Bellison, Simeon;4
+Meader, George;Schumann, Meta;4
+Quivar, Florence;Cheek, John;4
+Myers, Philip;Smith, Philip;4
+Drucker, Stanley;Schwarz, Gerard;4
+New York Choral Artists;Boys Choir of Harlem, The;4
+Rashkis, Theresa;Philharmonic Chorus;4
+Keller, Marthe;New York Choral Artists;4
+Griffey, Anthony Dean;Worley, James Archie;4
+Kossoff, David;Tritle, Kent;4
+LeClair, Judith;Brey, Carter;4
+Freeman, Stephen;Jacobs, Paul;4
+Myers, Philip;LeClair, Judith;4
+Stern, Nina;Underwood, Keith;4
+Lloyd, Robert;New York Choral Artists;4
+American Boychoir, The;Church, Sandra;4
+Irons, Jeremy;Chorus of the Mariinsky Theatre;4
+Jacobs, Paul;Bailey, Elden;4
+Serjan, Tatiana;New York Choral Artists;4
+Gebhard, Heinrich;Nazzi, Michel;4
+Goerke, Christine;Olsen, Stanford;4
+Spanjer, R. Allen;Wilt, James;4
+Bryn-Julson, Phyllis;Gottlieb, Gordon;4
+Thomanerchor Leipzig;Levinson, Eugene;4
+Stone, William;Stacy, Thomas;4
+Cobb, Kevin;Baer, Alan;4
+Sylar, Sherry;Tritle, Kent;4
+Cobb, Kevin;Alessi, Joseph;4
+Piastro, Mishel;Labate, Bruno;4
+Duncan, Todd;Westminster Choir;4
+Gilbert, Jane;New York Choral Artists;4
+Carpenter, Mary Chapin;Merritt, Tift;4
+Ma, Yo-Yo;Ax, Emanuel;4
+O'Donovan, Aoife;Levine, Duke;4
+Roth, Jerome;De Intinis, Rainer;4
+Kruglikov, Marina;Webb, Carol;4
+Bensdorf, Ethan;Alessi, Joseph;4
+Sullivan, Robert;Harwood, Donald;4
+Church, Sandra;Botti, Robert;4
+La Porta, John;Marshall, Wendell;4
+Vinay, Ramon;Vichey, Luben;4
+Davidoff, Judith;Party, Lionel;4
+Chambers, James;Namen, William;4
+New York Choral Artists;Worley, James Archie;4
+Baker, Julius;Herman, Edward, Jr.;4
+Hain, William;Harrell, Mack;4
+Eanet, Nicholas;Wang, Linda;4
+American Boychoir, The;Botti, Robert;4
+Anderson, Marian;Rupp, Franz;4
+Spanjer, R. Allen;Harwood, Donald;4
+Conner, Nadine;Wummer, John;4
+Gomberg, Harold;Nazzi, Michel;4
+Kohloff, Roland;Lang, Morris;4
+Stone, William;Darlington, Dorothy;4
+Galway, James;Baker, Julius;4
+Robinson, Joseph;Party, Lionel;4
+Staples, Sheryl;Ikuma, Keisuke;4
+Robinson, Joseph;Tritle, Kent;4
+Westminster Choir;Trinity Boys' Choir;4
+Rabinova, Anna;Deak, Jon;4
+Brooklyn Boys' Chorus;Smith, Philip;4
+Westminster Choir;Brooklyn Boys' Chorus;4
+Carabella, John;Schaeffer, John;4
+Schola Cantorum of NY;Little Church Around the Corner Boys' Choir;4
+Gilbert, Jane;DeLoach, Marcus;4
+Gilbert, Jane;Borg, Julianne;4
+Herman, Edward, Jr.;Jacobs, Paul;4
+Jazz at Lincoln Center Orchestra;Marsalis, Wynton;4
+Langstaff, John;Audience;4
+Wilt, James;Finlayson, David;4
+Sylar, Sherry;Staples, Sheryl;4
+Deak, Jon;Wingreen, Harriet;4
+Langevin, Robert;Stacy, Thomas;4
+Rethberg, Elisabeth;Schola Cantorum of NY;4
+Munroe, Lorne;Jacobs, Paul;4
+Underwood, Keith;Botti, Robert;4
+Kim, Michelle;Party, Lionel;4
+LeClair, Judith;Hindell, Leonard;4
+Wang, Liang;Kahane, Jeffrey;4
+Smith, Philip;Wilt, James;4
+Lipton, Martha;Harrell, Mack;4
+Mentzer, Susanne;Westminster Symphonic Choir;4
+Ashby, Jerome;Spanjer, R. Allen;4
+LeClair, Judith;Carroll, David;4
+Futral, Elizabeth;Larsson, Anna;4
+Stern, Nina;Davidoff, Judith;4
+Serjan, Tatiana;Gilbert, Jane;4
+New York Choral Artists;Brown, Rodne;4
+Forrester, Maureen;Lewis, Richard;4
+Nansteel, Deborah;Thomas, Russell;4
+London, George;Westminster Choir;4
+Beddoe, Dan F.;Bach Choir of Montclair;4
+Pinter, Brigitte;Gilbert, Jane;4
+Serjan, Tatiana;Borg, Julianne;4
+Kaufman, Mindy;Davidoff, Judith;4
+Hansen, Dionne;Darlington, Dorothy;4
+Kyle, John A.;Reiff, Anton, Sr.;4
+Stutch, Nathan;Drucker, Stanley;4
+Phillips, Mary;Worley, James Archie;4
+Church, Sandra;Brey, Carter;4
+Thomanerchor Leipzig;Party, Lionel;4
+Griffey, Anthony Dean;Petrenko, Mikhail;4
+Deak, Jon;Davidoff, Judith;4
+Drucker, Stanley;Facenda, Aubrey;4
+Guidi, Scipione;Schulz, Leo;4
+Kaufman, Mindy;Deak, Jon;4
+Jazz at Lincoln Center Orchestra;Morgan State University Choir;4
+Brook, Paige;Kalish, Gilbert;4
+Worley, James Archie;Brown, Rodne;4
+Sykes, Jubilant;Worley, James Archie;4
+Michalski, Raymond;Camerata Singers, The;4
+Burgio, Michael;Carabella, John;4
+Stern, Nina;Levinson, Eugene;4
+Stacy, Thomas;Hansen, Dionne;4
+Kane, Trudy;Jacobs, Paul;4
+Ely, Dean;American Boychoir, The;4
+Stern, Nina;Deak, Jon;4
+Tippet, Clark;Elliott, Kristine;4
+Macbeth, Florence;Roberts, George;4
+Brownlee, John;Lloyd, David;4
+Davidoff, Judith;Brey, Carter;4
+Meier, Waltraud;Chorus of the Mariinsky Theatre;4
+McNair, Sylvia;Kossoff, David;4
+Bocelli, Andrea;Foster, David;4
+Roth, Jerome;Burgio, Michael;4
+Spanjer, R. Allen;Sullivan, Robert;4
+Dicterow, Glenn;Underwood, Keith;4
+Brey, Carter;Darlington, Dorothy;4
+Conner, Nadine;Corigliano, John, Sr.;4
+Botti, Robert;Davidoff, Judith;4
+Deak, Jon;Smith, Philip;4
+Burgio, Michael;Bial, Bert;4
+Sivan, Cherpullessery;Nambeesan, Sreedharan;4
+Borg, Julianne;DeLoach, Marcus;4
+Morgan State University Choir;Marsalis, Wynton;4
+Smith, Philip;Myers, Philip;4
+Penzarella, Vincent;Harwood, Donald;4
+Corigliano, John, Sr.;Westminster Choir;4
+Dicterow, Glenn;Stepansky, Alan;4
+LeClair, Judith;Nye, Roger;4
+Baker, Julius;Jacobs, Paul;4
+Aler, John;Kossoff, David;4
+Rethberg, Elisabeth;Gange, Fraser;4
+Corigliano, John, Sr.;Schuster, Joseph;4
+LeClair, Judith;Smith, Philip;4
+Church, Sandra;Levinson, Eugene;4
+McNair, Sylvia;Darlington, Dorothy;4
+Markert, Annette;Thomanerchor Leipzig;4
+Lloyd, Margaret;Worley, James Archie;4
+Bial, Bert;De Intinis, Rainer;4
+Smith, Philip;Bordignon, Paolo;4
+Stern, Nina;Botti, Robert;4
+Stone, William;Sylar, Sherry;4
+Gottlieb, Gordon;Jacobs, Paul;4
+Thomanerchor Leipzig;Kossoff, David;4
+Conner, Nadine;Hain, William;4
+Petrenko, Mikhail;Chorus of the Mariinsky Theatre;4
+Bensdorf, Ethan;Cobb, Kevin;4
+Di Cecco, Enrico;Jacobs, Paul;4
+Hansen, Dionne;Kossoff, David;4
+Markert, Annette;Darlington, Dorothy;4
+Lloyd, Margaret;Ely, Dean;4
+Finlayson, David;Deck, Warren;4
+Varnay, Astrid;Vichey, Luben;4
+Farmer, Art;La Porta, John;4
+Westminster Choir;Little Church Around the Corner Boys' Choir;4
+Ginsberg, Marc;Greitzer, Sol;4
+Yeend, Frances;Harrell, Mack;4
+Markert, Annette;Orfeon Donostiarria;4
+Kim, Michelle;Okamoto, Satoshi;4
+Serjan, Tatiana;Pinter, Brigitte;4
+Cobb, Kevin;Deane, Richard;4
+Markert, Annette;Kossoff, David;4
+Davidoff, Judith;Tritle, Kent;4
+Roseman, Ronald;Cerminaro, John;4
+Stacy, Thomas;Raver, Leonard;4
+Aler, John;Olsen, Stanford;4
+Davidoff, Judith;Levinson, Eugene;4
+Rex, Charles;Smith, Philip;4
+Aler, John;Sylar, Sherry;4
+Hamel, Martine Van;Elliott, Kristine;4
+Underwood, Keith;Davidoff, Judith;4
+Olsen, Stanford;Thomanerchor Leipzig;4
+Ely, Dean;New York Choral Artists;4
+Kirkby-Lunn, Louise;Kunwald, Ernst;4
+DeGaetani, Jan;Jacobs, Paul;4
+Lange, Hans;Schulz, Leo;4
+Baxtresser, Jeanne;Robinson, Joseph;4
+McDermott, Kerry;Stepansky, Alan;4
+Sylar, Sherry;Botti, Robert;4
+Ma, Yo-Yo;Kalhor, Kayhan;4
+LeClair, Judith;Deak, Jon;4
+Rex, Charles;Stepansky, Alan;4
+Finlayson, David;Harwood, Donald;4
+Darlington, Dorothy;Tritle, Kent;4
+O'Donovan, Aoife;Rollings, Matt;4
+Yeend, Frances;Westminster Choir;4
+Bell, Joshua;Groban, Josh;4
+Brema, Marie;Paur, Emil;4
+Robinson, Joseph;Brey, Carter;4
+Juilliard String Quartet;Mann, Robert;4
+Underwood, Keith;Levinson, Eugene;4
+Wilt, James;Harwood, Donald;4
+Stepansky, Alan;Carroll, David;4
+Ashby, Jerome;Wilt, James;4
+Mentzer, Susanne;New York Choral Artists;4
+Westminster Choir;American Boychoir, The;4
+Fitch, Douglas;Taylor, Clifton;4
+Lloyd, Margaret;Brown, Rodne;4
+Spanjer, R. Allen;Penzarella, Vincent;4
+Lucas, George;Haines, LeRoy (Roy);4
+Brugger, Janai;Nansteel, Deborah;4
+Guidi, Scipione;Kurthy, Zoltan;4
+Burgio, Michael;Hindell, Leonard;4
+Bial, Bert;Schaeffer, John;4
+Dicterow, Glenn;Robbins, Gerald;4
+Hayden, Melissa;D'Amboise, Jacques;4
+Hindell, Leonard;Bial, Bert;4
+American Boychoir, The;Sylar, Sherry;4
+American Boychoir, The;Dettra, Scott;4
+Smith, Wellington;Rashkis, Theresa;4
+Wilt, James;Alessi, Joseph;4
+Merriman, Nan;Duncan, Todd;4
+Drucker, Stanley;Cerminaro, John;4
+Deane, Richard;Baer, Alan;4
+Kaufman, Mindy;Kuyper, L. William;4
+Burgio, Michael;Myers, Philip;4
+Robinson, Joseph;Hindell, Leonard;4
+Brey, Carter;Moon, Eileen;4
+Brey, Carter;Kossoff, David;4
+Griffey, Anthony Dean;Brown, Rodne;4
+Ashby, Jerome;Sullivan, Robert;4
+Seefried, Irmgard;Westminster Choir;4
+Metzger, Ottilie;Smith, Harold Osborn;4
+Spanjer, R. Allen;Finlayson, David;4
+Langevin, Robert;Ikuma, Keisuke;4
+Faust, Isabelle;Kudo, Sumire;4
+Sylar, Sherry;Hansen, Dionne;4
+Takebe, Yoko;Webb, Carol;4
+Schola Cantorum of NY;Crooks, Richard;4
+Goerke, Christine;Markert, Annette;4
+Thomanerchor Leipzig;Brey, Carter;4
+Markert, Annette;Botti, Robert;4
+Tentoni, Rosa;Schola Cantorum of NY;4
+Moon, Eileen;Deak, Jon;4
+Smith, Wellington;Philharmonic Chorus;4
+Valente, Benita;Westminster Choir;4
+Church, Sandra;Carroll, David;4
+Tourel, Jennie;Schola Cantorum of NY;4
+Roth, Jerome;Facenda, Aubrey;4
+Myers, Philip;De Intinis, Rainer;4
+Phillips, Mary;Brown, Rodne;4
+Burgio, Michael;Facenda, Aubrey;4
+Church, Sandra;Deak, Jon;4
+La Porta, John;Shaughnessy, Ed;4
+Luxon, Benjamin;New York Choral Artists;4
+Sykes, Jubilant;Brown, Rodne;4
+Pinter, Brigitte;New York Choral Artists;4
+Kim, Myung-Hi;Takebe, Yoko;4
+Serjan, Tatiana;DeLoach, Marcus;4
+Aler, John;Stone, William;4
+Nassief, Kelley;Westminster Symphonic Choir;4
+Corigliano, John, Sr.;Zegler, Manuel;4
+Markert, Annette;Party, Lionel;4
+Stacy, Thomas;Dallessio, Richard;4
+Nelson, Judith;Deak, Jon;4
+Olsen, Stanford;Kossoff, David;4
+Brugger, Janai;Thomas, Russell;4
+Harrell, Mack;Corigliano, John, Sr.;4
+Ikuma, Keisuke;Dallessio, Richard;4
+Sylar, Sherry;Raver, Leonard;4
+Spanjer, R. Allen;Smith, Philip;4
+Wang, Liang;Sylar, Sherry;4
+Thomanerchor Leipzig;Darlington, Dorothy;4
+Roth, Jerome;Bial, Bert;4
+Faust, Isabelle;Bordignon, Paolo;4
+Stone, William;Kossoff, David;4

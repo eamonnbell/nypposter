@@ -1,0 +1,416 @@
+Id,Label,In-Degree,Out-Degree,Degree,Clustering Coefficient,Eigenvector Centrality
+"Culp, Julia","Culp, Julia",0,1,1,0.0,0.0
+"Bos, Coenraad V.","Bos, Coenraad V.",2,0,2,0.0,0.0028841703302758624
+"Phelps, Cynthia","Phelps, Cynthia",6,4,10,0.41666666,0.10711661724969485
+"Young, Rebecca","Young, Rebecca",6,3,9,0.43055555,0.053953918908705975
+"Drucker, Stanley","Drucker, Stanley",13,20,33,0.13825758,0.25891407828984303
+"LeClair, Judith","LeClair, Judith",17,16,33,0.21370968,0.5835268803668173
+"Myers, Philip","Myers, Philip",19,8,27,0.23333333,0.7214979172636402
+"Robinson, Joseph","Robinson, Joseph",10,21,31,0.22413793,0.1726025194875295
+"Cook, Barbara","Cook, Barbara",0,3,3,1.0,0.0
+"Donovan, Peter","Donovan, Peter",3,2,5,0.6666667,0.011373715588820003
+"Saporito, James","Saporito, James",3,2,5,0.6666667,0.011373715588820003
+New York Choral Artists,New York Choral Artists,29,8,37,0.029279279,0.05738184807282844
+"American Boychoir, The","American Boychoir, The",13,7,20,0.086842105,0.07380388077385668
+"Kaufman, Mindy","Kaufman, Mindy",9,20,29,0.23846154,0.26049950282702056
+"Dicterow, Glenn","Dicterow, Glenn",1,30,31,0.21935484,0.02543286120286223
+"Brey, Carter","Brey, Carter",17,8,25,0.22644928,0.4434914745566934
+"Stacy, Thomas","Stacy, Thomas",22,27,49,0.14640592,0.425781437395798
+"Corigliano, John, Sr.","Corigliano, John, Sr.",6,11,17,0.07720588,0.015139805103068175
+"Varga, Laszlo","Varga, Laszlo",2,2,4,0.25,0.00859442404941078
+"Sylar, Sherry","Sylar, Sherry",17,20,37,0.15597148,0.23884159653883255
+"Carpenter, Mary Chapin","Carpenter, Mary Chapin",0,10,10,0.2888889,0.0
+"Jennings, John","Jennings, John",11,2,13,0.23636363,0.04937600459457521
+"Erskine, Peter","Erskine, Peter",2,5,7,0.5,0.0035899804554639847
+"Colley, Scott","Colley, Scott",7,0,7,0.5,0.041490233558459065
+"Douglas, Jerry","Douglas, Jerry",1,6,7,0.5,0.0014420851651379312
+"Carroll, Jon","Carroll, Jon",5,2,7,0.5,0.0180253142535141
+"Levine, Duke","Levine, Duke",5,3,8,0.42857143,0.013723738336096069
+"Rollings, Matt","Rollings, Matt",4,4,8,0.42857143,0.008759743783451313
+"Piastro, Mishel","Piastro, Mishel",0,8,8,0.14285715,0.0
+"Schuster, Joseph","Schuster, Joseph",5,1,6,0.25,0.019254713307737894
+"Neubauer, Paul","Neubauer, Paul",2,13,15,0.5190476,0.012684787475665359
+"Whittemore, Arthur","Whittemore, Arthur",0,1,1,0.0,0.0
+"Lowe, Jack","Lowe, Jack",1,0,1,0.0,0.0014420851651379312
+"Musiker, Lee","Musiker, Lee",3,2,5,0.6666667,0.011373715588820003
+"Ginsberg, Marc","Ginsberg, Marc",2,20,22,0.2987013,0.018314280481176882
+"Levinson, Eugene","Levinson, Eugene",18,16,34,0.2376344,0.4265273835072432
+United States Marine Drum and Bugle Corps,United States Marine Drum and Bugle Corps,0,1,1,0.0,0.0
+New York Philharmonic,New York Philharmonic,1,0,1,0.0,0.0014420851651379312
+"Nordica, Lillian","Nordica, Lillian",0,1,1,0.0,0.0
+"Simmons, E. Romayne","Simmons, E. Romayne",1,0,1,0.0,0.0014420851651379312
+"Spanjer, R. Allen","Spanjer, R. Allen",5,8,13,0.20512821,0.248805262763362
+"Ralske, Erik","Ralske, Erik",17,1,18,0.375817,0.810750406594923
+"Bial, Bert","Bial, Bert",15,5,20,0.32105264,0.5125539195027666
+"Staples, Sheryl","Staples, Sheryl",2,11,13,0.2628205,0.054197896353494854
+"Freeman, Stephen","Freeman, Stephen",11,6,17,0.4154412,0.3374314188122612
+"Simenauer, Peter","Simenauer, Peter",9,6,15,0.5190476,0.28826691355474926
+Igudesman & Joo,Igudesman & Joo,0,2,2,0.5,0.0
+"Joo, Hyung-ki","Joo, Hyung-ki",2,0,2,0.5,0.0035899804554639847
+"Smith, Philip","Smith, Philip",17,11,28,0.12307692,0.6635994222881341
+"Alessi, Joseph","Alessi, Joseph",9,6,15,0.13809524,0.31065320651946554
+"Wummer, John","Wummer, John",4,6,10,0.14444445,0.012184404504874761
+"Gomberg, Harold","Gomberg, Harold",3,7,10,0.12222222,0.016903202910837023
+"Igudesman, Aleksey","Igudesman, Aleksey",1,1,2,0.5,0.0014420851651379312
+"Carabella, John","Carabella, John",16,4,20,0.32368422,0.6810436079674361
+"Labate, Bruno","Labate, Bruno",2,3,5,0.3,0.0028841703302758624
+"Kohon, Benjamin","Kohon, Benjamin",3,1,4,0.5,0.009777058181794104
+"Bellison, Simeon","Bellison, Simeon",4,2,6,0.23333333,0.011403199195333804
+"Wall, Howard","Wall, Howard",3,0,3,0.5,0.2648730322579562
+"Amans, John","Amans, John",0,4,4,0.5,0.0
+"Wallenstein, Alfred","Wallenstein, Alfred",4,1,5,0.15,0.00788577103611608
+"Jaenicke, Bruno","Jaenicke, Bruno",4,0,4,0.5,0.014524426570676261
+"Party, Lionel","Party, Lionel",16,1,17,0.28308824,0.5433560163773028
+"Charlap, Bill","Charlap, Bill",2,2,4,0.5,0.0035899804554639847
+"De Rosa, Richard","De Rosa, Richard",4,0,4,0.5,0.010701870298434779
+"Mulligan, Gerry","Mulligan, Gerry",0,4,4,0.5,0.0
+"Mulligan Quartet, The Gerry","Mulligan Quartet, The Gerry",1,3,4,0.5,0.0014420851651379312
+"Johnson, Dean","Johnson, Dean",3,1,4,0.5,0.0066118484931252716
+"Munroe, Lorne","Munroe, Lorne",4,14,18,0.36601308,0.018560111602470827
+"Botti, Robert","Botti, Robert",10,13,23,0.25974026,0.12816294192269112
+"Harrell, Mack","Harrell, Mack",5,2,7,0.26190478,0.010033666326442127
+Westminster Choir,Westminster Choir,25,4,29,0.030788178,0.058287558867881804
+"Bernstein, Leonard","Bernstein, Leonard",0,2,2,0.5,0.0
+"Quivar, Florence","Quivar, Florence",0,4,4,0.33333334,0.0
+"Kim, Michelle","Kim, Michelle",1,7,8,0.32142857,0.010758693760749182
+"Kossoff, David","Kossoff, David",20,6,26,0.22307692,0.532685683450551
+"Kim, Lisa","Kim, Lisa",4,4,8,0.4642857,0.026885060210147124
+"Polisi, William","Polisi, William",3,0,3,0.33333334,0.017958038495991712
+"Darlington, Dorothy","Darlington, Dorothy",19,5,24,0.24456522,0.6138959016015958
+"Vacchiano, William","Vacchiano, William",3,1,4,0.25,0.019005902775479727
+"Lincer, William","Lincer, William",2,0,2,0.5,0.011237879461293248
+"Cochrane, Eleanore","Cochrane, Eleanore",0,3,3,0.16666667,0.0
+"Karle, Theo","Karle, Theo",1,1,2,0.5,0.0014420851651379312
+"Nuccio, Mark","Nuccio, Mark",0,3,3,0.6666667,0.0
+"Wang, Liang","Wang, Liang",0,7,7,0.30952382,0.0
+"Griffey, Anthony Dean","Griffey, Anthony Dean",2,6,8,0.3392857,0.0035899804554639847
+"Maule, Michael","Maule, Michael",1,1,2,0.5,0.0014420851651379312
+"Montanaro, Tony","Montanaro, Tony",2,0,2,0.5,0.0035899804554639847
+Brooklyn Youth Chorus,Brooklyn Youth Chorus,1,0,1,0.0,0.02543286120286223
+"Conner, Nadine","Conner, Nadine",0,7,7,0.30952382,0.0
+"Osnes, Laura","Osnes, Laura",0,1,1,0.0,0.0
+"Fontana, Santino","Fontana, Santino",1,0,1,0.0,0.0014420851651379312
+"Wilde, Patricia","Wilde, Patricia",0,2,2,0.5,0.0
+"Church, Sandra","Church, Sandra",2,14,16,0.36666667,0.030483502567510024
+"Deck, Warren","Deck, Warren",6,0,6,0.5,0.2574271198695609
+"Rose, Leonard","Rose, Leonard",1,0,1,0.0,0.0071523388842728505
+"Davidoff, Judith","Davidoff, Judith",13,4,17,0.3625,0.5773304006737291
+"Hain, William","Hain, William",1,5,6,0.4,0.0014420851651379312
+"Steber, Eleanor","Steber, Eleanor",0,3,3,0.5,0.0
+"Pogany, Imre","Pogany, Imre",2,2,4,0.25,0.0028841703302758624
+"Moon, Eileen","Moon, Eileen",7,1,8,0.375,0.1317042608531202
+"Bolognini, Remo","Bolognini, Remo",1,1,2,0.5,0.0014420851651379312
+"Herman, Edward, Jr.","Herman, Edward, Jr.",6,1,7,0.1904762,0.07796571764464079
+"Deak, Jon","Deak, Jon",17,6,23,0.15612648,0.5664353089287366
+"Gold, Arthur","Gold, Arthur",0,1,1,0.0,0.0
+"Fizdale, Robert","Fizdale, Robert",1,0,1,0.0,0.0014420851651379312
+"Kudo, Sumire","Kudo, Sumire",1,2,3,0.5,0.0014420851651379312
+"Okamoto, Satoshi","Okamoto, Satoshi",3,1,4,0.25,0.007031559429196558
+"Gerhardt, Elena","Gerhardt, Elena",0,1,1,0.0,0.0
+"Golde, Walter H.","Golde, Walter H.",1,0,1,0.0,0.0014420851651379312
+"Aler, John","Aler, John",0,6,6,0.33333334,0.0
+"Zegler, Manuel","Zegler, Manuel",3,0,3,0.33333334,0.05844138609512902
+"Rosenberger, Walter","Rosenberger, Walter",1,2,3,0.33333334,0.02609709200928034
+"Bailey, Elden","Bailey, Elden",3,1,4,0.16666667,0.03862224910305223
+Westminster Symphonic Choir,Westminster Symphonic Choir,4,6,10,0.12222222,0.005768340660551725
+"Bordignon, Paolo","Bordignon, Paolo",7,1,8,0.23214285,0.22809063698195572
+"Szantho, Enid","Szantho, Enid",1,2,3,0.5,0.0014420851651379312
+"Rex, Charles","Rex, Charles",2,7,9,0.25,0.120398315055313
+"Gordon, Kenneth","Gordon, Kenneth",1,0,1,0.0,0.020107492303128586
+"Phillips, Mary","Phillips, Mary",1,6,7,0.45238096,0.0014420851651379312
+"Greitzer, Sol","Greitzer, Sol",2,0,2,0.5,0.011503034826318958
+"Lloyd, Margaret","Lloyd, Margaret",0,8,8,0.375,0.0
+"Bartlett, Ethel","Bartlett, Ethel",0,1,1,0.0,0.0
+"Robertson, Rae","Robertson, Rae",1,0,1,0.0,0.0014420851651379312
+"Wingreen, Harriet","Wingreen, Harriet",6,0,6,0.43333334,0.4017436568136698
+"Markert, Annette","Markert, Annette",1,9,10,0.3,0.0014420851651379312
+"Olsen, Stanford","Olsen, Stanford",3,8,11,0.28181818,0.005032065620601916
+"O'Hara, Kelli","O'Hara, Kelli",0,1,1,0.0,0.0
+"Gunn, Nathan","Gunn, Nathan",1,0,1,0.0,0.0014420851651379312
+"Underwood, Keith","Underwood, Keith",2,8,10,0.5,0.008997671885565627
+"Keillor, Garrison","Keillor, Garrison",0,2,2,0.5,0.0
+"DiGiallonardo , Christine","DiGiallonardo , Christine",1,1,2,0.5,0.0014420851651379312
+"Neill, Stuart","Neill, Stuart",0,2,2,0.5,0.0
+"Sykes, Jubilant","Sykes, Jubilant",3,4,7,0.45238096,0.0066118484931252716
+"Stern, Nina","Stern, Nina",0,9,9,0.5277778,0.0
+"Sullivan, Robert","Sullivan, Robert",3,5,8,0.42857143,0.159012287488302
+"Blegen, Judith","Blegen, Judith",0,1,1,0.0,0.0
+"Wadsworth, Charles","Wadsworth, Charles",2,0,2,0.0,0.0028841703302758624
+"Schorr, Friedrich","Schorr, Friedrich",0,1,1,0.0,0.0
+"Walter, Bruno","Walter, Bruno",2,0,2,0.0,0.0028841703302758624
+"Guidi, Scipione","Guidi, Scipione",0,6,6,0.06666667,0.0
+"Lange, Hans","Lange, Hans",1,1,2,0.5,0.0014420851651379312
+"Ashby, Jerome","Ashby, Jerome",3,9,12,0.2651515,0.119358849201578
+"O'Donovan, Aoife","O'Donovan, Aoife",1,3,4,0.5,0.0014420851651379312
+"Brook, Paige","Brook, Paige",1,5,6,0.16666667,0.020107492303128586
+"McGinnis, Robert","McGinnis, Robert",2,2,4,0.33333334,0.01185356389120687
+"Chambers, James","Chambers, James",3,1,4,0.25,0.016471023061262635
+"Tritle, Kent","Tritle, Kent",15,0,15,0.30952382,1.0
+"Moscona, Nicola","Moscona, Nicola",2,1,3,0.5,0.0035899804554639847
+"Grossman, David J.","Grossman, David J.",1,2,3,0.33333334,0.04557349444723269
+"Alda, Frances","Alda, Frances",0,2,2,0.0,0.0
+"La Forge, Frank","La Forge, Frank",1,0,1,0.0,0.0014420851651379312
+"De Intinis, Rainer","De Intinis, Rainer",5,1,6,0.36666667,0.33755854891080345
+"Facenda, Aubrey","Facenda, Aubrey",5,0,5,0.4,0.20532552808443702
+"Kurthy, Zoltan","Kurthy, Zoltan",4,1,5,0.25,0.012610522790124123
+"Tourel, Jennie","Tourel, Jennie",0,2,2,0.0,0.0
+Little Church Around the Corner Boys' Choir,Little Church Around the Corner Boys' Choir,3,2,5,0.15,0.030458723446869986
+Trinity Boys' Choir,Trinity Boys' Choir,2,1,3,0.5,0.03339163388154756
+"Ware, John","Ware, John",2,1,3,0.5,0.049628472211214844
+"Lamb, Christopher S.","Lamb, Christopher S.",2,1,3,0.16666667,0.053250050634879594
+"Dworsky, Richard","Dworsky, Richard",2,0,2,0.5,0.0035899804554639847
+"Laskowski, Kim","Laskowski, Kim",3,3,6,0.36666667,0.16545748232443314
+"Lloyd, David","Lloyd, David",2,2,4,0.25,0.0028841703302758624
+"London, George","London, George",0,2,2,0.0,0.0
+Schola Cantorum of NY,Schola Cantorum of NY,5,2,7,0.0,0.007210425825689656
+"Owens, Eric","Owens, Eric",0,1,1,0.0,0.0
+"Forrester, Maureen","Forrester, Maureen",0,2,2,0.0,0.0
+"Townsend, Ruth","Townsend, Ruth",1,0,1,0.0,0.0014420851651379312
+"Baker, Julius","Baker, Julius",1,4,5,0.25,0.0014420851651379312
+"Schumann-Heink, Ernestine","Schumann-Heink, Ernestine",0,1,1,0.0,0.0
+"Paur, Emil","Paur, Emil",2,0,2,0.0,0.0028841703302758624
+"Kim, Myung-Hi","Kim, Myung-Hi",0,2,2,0.0,0.0
+"Kruglikov, Marina","Kruglikov, Marina",1,1,2,0.0,0.0014420851651379312
+"Lipton, Martha","Lipton, Martha",1,2,3,0.5,0.0014420851651379312
+"Wolfe, Betsy","Wolfe, Betsy",0,1,1,0.0,0.0
+"Samonsky, Andrew","Samonsky, Andrew",1,0,1,0.0,0.0014420851651379312
+"Lang, Morris","Lang, Morris",3,0,3,0.16666667,0.01636765536806365
+"Van Vliet, Cornelius","Van Vliet, Cornelius",1,1,2,0.0,0.0014420851651379312
+"Finlayson, David","Finlayson, David",7,2,9,0.4027778,0.27770593949741645
+"Stepansky, Alan","Stepansky, Alan",7,2,9,0.30555555,0.3325080321027705
+"Merriman, Nan","Merriman, Nan",0,2,2,0.5,0.0
+"Alvary, Lorenzo","Alvary, Lorenzo",2,2,4,0.5,0.0035899804554639847
+"Bocelli, Andrea","Bocelli, Andrea",0,2,2,0.0,0.0
+"Merritt, Tift","Merritt, Tift",1,1,2,0.5,0.0014420851651379312
+"Druckman, Daniel","Druckman, Daniel",1,2,3,0.0,0.009141190428667578
+"Dadmun, Royal","Dadmun, Royal",2,0,2,0.5,0.0035899804554639847
+"Kyle, John A.","Kyle, John A.",0,2,2,0.5,0.0
+"Wiese, Frederick","Wiese, Frederick",1,1,2,0.5,0.0014420851651379312
+"Barozzi, Socrate","Barozzi, Socrate",1,2,3,0.6666667,0.0014420851651379312
+"Battle, Kathleen","Battle, Kathleen",0,3,3,0.16666667,0.0
+"Boys Choir of Harlem, The","Boys Choir of Harlem, The",2,0,2,0.5,0.02687494636800017
+"Gomez, Lino","Gomez, Lino",1,0,1,0.0,0.043507043675644286
+Thomanerchor Leipzig,Thomanerchor Leipzig,2,8,10,0.45555556,0.005875573453175468
+"Estrin, Harvey","Estrin, Harvey",1,1,2,0.0,0.0023452981135692395
+"Yeend, Frances","Yeend, Frances",0,4,4,0.41666666,0.0
+"Penzarella, Vincent","Penzarella, Vincent",4,4,8,0.42857143,0.18228444219628104
+"McDermott, Kerry","McDermott, Kerry",0,3,3,0.16666667,0.0
+"Takebe, Yoko","Takebe, Yoko",3,1,4,0.083333336,0.005032065620601916
+"Jacobs, Paul","Jacobs, Paul",11,2,13,0.057692308,0.13397706929450331
+"Harwood, Donald","Harwood, Donald",7,0,7,0.42857143,0.2150764951338362
+"Langevin, Robert","Langevin, Robert",0,4,4,0.41666666,0.0
+"Timchenko, Alexander","Timchenko, Alexander",0,1,1,0.0,0.0
+Chorus of the Mariinsky Theatre,Chorus of the Mariinsky Theatre,4,0,4,0.0,0.006836494428199934
+"Bispham, David Scull","Bispham, David Scull",0,1,1,0.0,0.0
+"Harris, Victor","Harris, Victor",1,0,1,0.0,0.0014420851651379312
+"Plishka, Paul","Plishka, Paul",0,1,1,0.0,0.0
+"Estes, Simon","Estes, Simon",0,1,1,0.0,0.0
+"McNair, Sylvia","McNair, Sylvia",0,5,5,0.3,0.0
+"Wolff, Beverly","Wolff, Beverly",0,1,1,0.0,0.0
+"Carroll, David","Carroll, David",7,0,7,0.45238096,0.45375535740767053
+"Rosen, Myor","Rosen, Myor",0,1,1,0.0,0.0
+Abyssinian Sanctuary Choir,Abyssinian Sanctuary Choir,0,1,1,0.0,0.0
+All-City Singers,All-City Singers,1,0,1,0.0,0.0014420851651379312
+"Simon, Fiona","Simon, Fiona",1,4,5,0.2,0.0014420851651379312
+"Goltzer, Harold","Goltzer, Harold",1,1,2,0.5,0.04510080676919304
+"Valente, Benita","Valente, Benita",0,2,2,0.0,0.0
+"Colvin, Shawn","Colvin, Shawn",1,1,2,0.5,0.0014420851651379312
+"Baez, Joan","Baez, Joan",0,1,1,0.0,0.0
+"Allen, Betty","Allen, Betty",0,2,2,0.0,0.0
+"Ikuma, Keisuke","Ikuma, Keisuke",4,1,5,0.3,0.13259909398120007
+"Fitch, Douglas","Fitch, Douglas",1,5,6,0.0,0.0023452981135692395
+"Gilbert, Alan","Gilbert, Alan",1,1,2,0.5,0.010758693760749182
+"Tu, Qiang","Tu, Qiang",2,1,3,0.5,0.0044639532027992285
+"Rogers, Reuben","Rogers, Reuben",2,1,3,0.5,0.0035899804554639847
+"Carrington, Terri Lynne","Carrington, Terri Lynne",3,0,3,0.5,0.0066118484931252716
+"Parks, Melissa","Parks, Melissa",1,0,1,0.0,0.0023452981135692395
+"Kurt, Melanie","Kurt, Melanie",0,1,1,0.0,0.0
+"Hoff, Anton","Hoff, Anton",1,0,1,0.0,0.0014420851651379312
+"Kuney, Scott","Kuney, Scott",3,1,4,0.5,0.0066118484931252716
+"Meade, Dave","Meade, Dave",4,0,4,0.5,0.010701870298434779
+"Kemp, Erin","Kemp, Erin",1,3,4,0.5,0.0014420851651379312
+"Wesby, Carla","Wesby, Carla",2,2,4,0.5,0.0035899804554639847
+"Borg, Julianne","Borg, Julianne",2,2,4,0.5,0.0044639532027992285
+"Bloom, Joshua","Bloom, Joshua",1,0,1,0.0,0.0023452981135692395
+"Ballard, Erin","Ballard, Erin",1,0,1,0.0,0.0014420851651379312
+"Falcone, Mario","Falcone, Mario",0,2,2,0.5,0.0
+"Haines, LeRoy (Roy)","Haines, LeRoy (Roy)",2,0,2,0.5,0.0035899804554639847
+"Bellson, Louis","Bellson, Louis",0,1,1,0.0,0.0
+"Lamb, John","Lamb, John",1,0,1,0.0,0.0014420851651379312
+"Stutch, Nathan","Stutch, Nathan",0,2,2,0.5,0.0
+"Davis, Leonard","Davis, Leonard",0,1,1,0.0,0.0
+"Baird, Thomas","Baird, Thomas",0,2,2,0.0,0.0
+"Magario, Tomiko","Magario, Tomiko",1,0,1,0.0,0.0014420851651379312
+"Friend, Rodney","Friend, Rodney",0,1,1,0.0,0.0
+"Engle, Lori","Engle, Lori",3,1,4,0.5,0.0066118484931252716
+"Stevens, Lara","Stevens, Lara",4,0,4,0.5,0.010701870298434779
+"Lucas, George","Lucas, George",1,1,2,0.5,0.0014420851651379312
+"Barzin, Leon","Barzin, Leon",1,0,1,0.0,0.0021478952903260535
+Modern Jazz Quartet,Modern Jazz Quartet,0,4,4,0.5,0.0
+"Lewis, John","Lewis, John",1,3,4,0.5,0.0014420851651379312
+"Reeves, Dianne","Reeves, Dianne",0,3,3,0.5,0.0
+"Rosenker, Michael","Rosenker, Michael",1,0,1,0.0,0.0071523388842728505
+"Jackson, Milt","Jackson, Milt",2,2,4,0.5,0.0035899804554639847
+"Heath, Percy","Heath, Percy",3,1,4,0.5,0.0066118484931252716
+"Nelson, Judith","Nelson, Judith",1,2,3,0.5,0.0021478952903260535
+"Watson, Jean","Watson, Jean",1,1,2,0.5,0.0014420851651379312
+Brooklyn Boys' Chorus,Brooklyn Boys' Chorus,4,1,5,0.2,0.06799124513376055
+"Martinez, Margarita","Martinez, Margarita",0,4,4,0.5,0.0
+"Gramm, Donald","Gramm, Donald",0,1,1,0.0,0.0
+"Camerata Singers, The","Camerata Singers, The",3,0,3,0.0,0.0043262554954137935
+Rubinstein Club Chorus,Rubinstein Club Chorus,0,1,1,0.0,0.0
+Apollo Club Chorus,Apollo Club Chorus,1,0,1,0.0,0.0014420851651379312
+"Hubbard, Tom","Hubbard, Tom",2,2,4,0.5,0.0035899804554639847
+"Martin, Peter","Martin, Peter",1,2,3,0.5,0.0014420851651379312
+"Schwarz, Gerard","Schwarz, Gerard",1,1,2,0.5,0.04510080676919304
+"Milnes, Sherrill","Milnes, Sherrill",0,1,1,0.0,0.0
+"Brewer, Christine","Brewer, Christine",0,1,1,0.0,0.0
+"Murphy, Heidi Grant","Murphy, Heidi Grant",0,2,2,0.5,0.0
+"Burgio, Michael","Burgio, Michael",2,5,7,0.2857143,0.04654289193433098
+"Stritch, Billy","Stritch, Billy",1,3,4,0.5,0.0014420851651379312
+"Nye, Roger","Nye, Roger",3,1,4,0.5833333,0.11965688677760554
+"Keller, Marthe","Keller, Marthe",0,2,2,0.5,0.0
+"DeLoach, Marcus","DeLoach, Marcus",3,1,4,0.5,0.007680002260773482
+"Stueckgold, Grete","Stueckgold, Grete",0,1,1,0.0,0.0
+"Pollain, Rene","Pollain, Rene",1,0,1,0.0,0.004769813532331786
+"Terfel, Bryn","Terfel, Bryn",0,1,1,0.0,0.0
+"Cheek, John","Cheek, John",1,1,2,0.5,0.0014420851651379312
+"Szot, Paulo","Szot, Paulo",0,4,4,0.5,0.0
+"Pauley, Wilbur","Pauley, Wilbur",1,0,1,0.0,0.0023452981135692395
+"Appleman, Gerald K.","Appleman, Gerald K.",0,1,1,0.0,0.0
+"Arroyo, Martina","Arroyo, Martina",0,1,1,0.0,0.0
+"Kay, Connie","Kay, Connie",4,0,4,0.5,0.010701870298434779
+"Fremstad, Olive","Fremstad, Olive",0,1,1,0.0,0.0
+"Van Lier, Lina Coen","Van Lier, Lina Coen",1,0,1,0.0,0.0014420851651379312
+"Horne, Marilyn","Horne, Marilyn",0,1,1,0.0,0.0
+"Pinza, Ezio","Pinza, Ezio",0,1,1,0.0,0.0
+"Charlston, Erik","Charlston, Erik",1,0,1,0.0,0.0031540338350246563
+"Metzger, Ottilie","Metzger, Ottilie",0,2,2,0.0,0.0
+"Janaushek, William","Janaushek, William",1,0,1,0.0,0.0014420851651379312
+"Casadesus, Robert","Casadesus, Robert",0,1,1,0.0,0.0
+"Casadesus, Gaby","Casadesus, Gaby",1,0,1,0.0,0.0014420851651379312
+"Simpson, Marietta","Simpson, Marietta",0,1,1,0.0,0.0
+"Cobb, Timothy","Cobb, Timothy",2,0,2,0.5,0.053250050634879594
+"Gottlieb, Gordon","Gottlieb, Gordon",2,1,3,0.0,0.004596119000162589
+"Laredo, Jaime","Laredo, Jaime",0,1,1,0.0,0.0
+"Parnas, Leslie","Parnas, Leslie",1,0,1,0.0,0.0014420851651379312
+"Schulz, Leo","Schulz, Leo",2,1,3,0.16666667,0.0035899804554639847
+"Kastner, Alfred","Kastner, Alfred",1,0,1,0.0,0.003021868037661298
+"Cella, Theodore","Cella, Theodore",0,2,2,0.5,0.0
+"Riegel, Kenneth","Riegel, Kenneth",0,1,1,0.0,0.0
+"Wiens, Edith","Wiens, Edith",0,1,1,0.0,0.0
+"Anastasio, Trey","Anastasio, Trey",1,1,2,0.0,0.0023452981135692395
+"Roth, Jerome","Roth, Jerome",0,5,5,0.4,0.0
+"Ludwig, Christa","Ludwig, Christa",0,1,1,0.0,0.0
+"Berry, Walter","Berry, Walter",1,0,1,0.0,0.0014420851651379312
+"Meader, George","Meader, George",0,2,2,0.0,0.0
+"Varnay, Astrid","Varnay, Astrid",0,2,2,0.5,0.0
+"Vinay, Ramon","Vinay, Ramon",1,1,2,0.5,0.0014420851651379312
+"Faust, Isabelle","Faust, Isabelle",0,3,3,0.5,0.0
+"Baxtresser, Jeanne","Baxtresser, Jeanne",0,2,2,0.5,0.0
+"Lipson Bell, Heather","Lipson Bell, Heather",1,0,1,0.0,0.0014420851651379312
+"Brockman, Jane","Brockman, Jane",0,1,1,0.0,0.0
+"Victor, Idara","Victor, Idara",1,0,1,0.0,0.0014420851651379312
+"Shirley-Quirk, John","Shirley-Quirk, John",0,1,1,0.0,0.0
+"Deane, Richard","Deane, Richard",1,2,3,0.33333334,0.0021478952903260535
+"Dallessio, Richard","Dallessio, Richard",3,0,3,0.5,0.14321111129222439
+"Clauson, William","Clauson, William",0,1,1,0.0,0.0
+Audience,Audience,2,0,2,0.0,0.0028841703302758624
+"Goerke, Christine","Goerke, Christine",0,3,3,0.33333334,0.0
+Orfeon Donostiarria,Orfeon Donostiarria,2,0,2,0.5,0.0035899804554639847
+"Reiff, Anton, Sr.","Reiff, Anton, Sr.",2,0,2,0.5,0.0035899804554639847
+"Schumann, Meta","Schumann, Meta",1,0,1,0.0,0.0014420851651379312
+"Rashkis, Theresa","Rashkis, Theresa",1,1,2,0.5,0.0014420851651379312
+Philharmonic Chorus,Philharmonic Chorus,2,0,2,0.5,0.0035899804554639847
+"Worley, James Archie","Worley, James Archie",5,1,6,0.5,0.03613473150129703
+"Lloyd, Robert","Lloyd, Robert",0,1,1,0.0,0.0
+"Irons, Jeremy","Irons, Jeremy",0,1,1,0.0,0.0
+"Serjan, Tatiana","Serjan, Tatiana",0,5,5,0.4,0.0
+"Gebhard, Heinrich","Gebhard, Heinrich",0,1,1,0.0,0.0
+"Nazzi, Michel","Nazzi, Michel",2,0,2,0.0,0.00763032560680104
+"Wilt, James","Wilt, James",3,3,6,0.43333334,0.159012287488302
+"Bryn-Julson, Phyllis","Bryn-Julson, Phyllis",0,1,1,0.0,0.0
+"Stone, William","Stone, William",1,4,5,0.45,0.0014420851651379312
+"Cobb, Kevin","Cobb, Kevin",1,3,4,0.25,0.0014420851651379312
+"Baer, Alan","Baer, Alan",2,0,2,0.5,0.004463953202799228
+"Duncan, Todd","Duncan, Todd",1,1,2,0.5,0.0014420851651379312
+"Gilbert, Jane","Gilbert, Jane",2,3,5,0.4,0.0035899804554639847
+"Ma, Yo-Yo","Ma, Yo-Yo",0,2,2,0.0,0.0
+"Ax, Emanuel","Ax, Emanuel",1,0,1,0.0,0.0014420851651379312
+"Webb, Carol","Webb, Carol",2,0,2,0.0,0.005875573453175468
+"Bensdorf, Ethan","Bensdorf, Ethan",0,2,2,0.5,0.0
+"La Porta, John","La Porta, John",1,2,3,0.0,0.0014420851651379312
+"Marshall, Wendell","Marshall, Wendell",1,0,1,0.0,0.0021478952903260535
+"Vichey, Luben","Vichey, Luben",2,0,2,0.5,0.0035899804554639847
+"Namen, William","Namen, William",1,0,1,0.0,0.005905652339442136
+"Eanet, Nicholas","Eanet, Nicholas",0,1,1,0.0,0.0
+"Wang, Linda","Wang, Linda",1,0,1,0.0,0.0014420851651379312
+"Anderson, Marian","Anderson, Marian",0,1,1,0.0,0.0
+"Rupp, Franz","Rupp, Franz",1,0,1,0.0,0.0014420851651379312
+"Kohloff, Roland","Kohloff, Roland",0,1,1,0.0,0.0
+"Galway, James","Galway, James",0,1,1,0.0,0.0
+"Rabinova, Anna","Rabinova, Anna",0,1,1,0.0,0.0
+"Schaeffer, John","Schaeffer, John",2,0,2,0.5,0.18154507871494058
+Jazz at Lincoln Center Orchestra,Jazz at Lincoln Center Orchestra,0,2,2,0.5,0.0
+"Marsalis, Wynton","Marsalis, Wynton",2,0,2,0.5,0.0035899804554639847
+"Langstaff, John","Langstaff, John",0,1,1,0.0,0.0
+"Rethberg, Elisabeth","Rethberg, Elisabeth",0,2,2,0.0,0.0
+"Hindell, Leonard","Hindell, Leonard",3,1,4,0.33333334,0.13130648492226887
+"Kahane, Jeffrey","Kahane, Jeffrey",1,0,1,0.0,0.0014420851651379312
+"Mentzer, Susanne","Mentzer, Susanne",0,2,2,0.0,0.0
+"Futral, Elizabeth","Futral, Elizabeth",0,1,1,0.0,0.0
+"Larsson, Anna","Larsson, Anna",1,0,1,0.0,0.0014420851651379312
+"Brown, Rodne","Brown, Rodne",6,0,6,0.5,0.047629550496682646
+"Lewis, Richard","Lewis, Richard",1,0,1,0.0,0.0014420851651379312
+"Nansteel, Deborah","Nansteel, Deborah",1,1,2,0.5,0.0014420851651379312
+"Thomas, Russell","Thomas, Russell",2,0,2,0.5,0.0035899804554639847
+"Beddoe, Dan F.","Beddoe, Dan F.",0,1,1,0.0,0.0
+Bach Choir of Montclair,Bach Choir of Montclair,1,0,1,0.0,0.0014420851651379312
+"Pinter, Brigitte","Pinter, Brigitte",1,2,3,0.5,0.0014420851651379312
+"Hansen, Dionne","Hansen, Dionne",2,2,4,0.5,0.120398315055313
+"Petrenko, Mikhail","Petrenko, Mikhail",1,1,2,0.0,0.003021868037661298
+Morgan State University Choir,Morgan State University Choir,1,1,2,0.5,0.0014420851651379312
+"Kalish, Gilbert","Kalish, Gilbert",1,0,1,0.0,0.004527665442021785
+"Michalski, Raymond","Michalski, Raymond",0,1,1,0.0,0.0
+"Kane, Trudy","Kane, Trudy",0,1,1,0.0,0.0
+"Ely, Dean","Ely, Dean",1,2,3,0.5,0.0014420851651379312
+"Tippet, Clark","Tippet, Clark",0,1,1,0.0,0.0
+"Elliott, Kristine","Elliott, Kristine",2,0,2,0.0,0.0028841703302758624
+"Macbeth, Florence","Macbeth, Florence",0,1,1,0.0,0.0
+"Roberts, George","Roberts, George",1,0,1,0.0,0.0014420851651379312
+"Brownlee, John","Brownlee, John",0,1,1,0.0,0.0
+"Meier, Waltraud","Meier, Waltraud",0,1,1,0.0,0.0
+"Foster, David","Foster, David",1,0,1,0.0,0.0014420851651379312
+"Sivan, Cherpullessery","Sivan, Cherpullessery",0,1,1,0.0,0.0
+"Nambeesan, Sreedharan","Nambeesan, Sreedharan",1,0,1,0.0,0.0014420851651379312
+"Gange, Fraser","Gange, Fraser",1,0,1,0.0,0.0014420851651379312
+"Di Cecco, Enrico","Di Cecco, Enrico",0,1,1,0.0,0.0
+"Farmer, Art","Farmer, Art",0,1,1,0.0,0.0
+"Roseman, Ronald","Roseman, Ronald",0,1,1,0.0,0.0
+"Cerminaro, John","Cerminaro, John",2,0,2,0.0,0.04654289193433098
+"Raver, Leonard","Raver, Leonard",2,0,2,0.5,0.120398315055313
+"Hamel, Martine Van","Hamel, Martine Van",0,1,1,0.0,0.0
+"Kirkby-Lunn, Louise","Kirkby-Lunn, Louise",0,1,1,0.0,0.0
+"Kunwald, Ernst","Kunwald, Ernst",1,0,1,0.0,0.0014420851651379312
+"DeGaetani, Jan","DeGaetani, Jan",0,1,1,0.0,0.0
+"Kalhor, Kayhan","Kalhor, Kayhan",1,0,1,0.0,0.0014420851651379312
+"Bell, Joshua","Bell, Joshua",0,1,1,0.0,0.0
+"Groban, Josh","Groban, Josh",1,0,1,0.0,0.0014420851651379312
+"Brema, Marie","Brema, Marie",0,1,1,0.0,0.0
+Juilliard String Quartet,Juilliard String Quartet,0,1,1,0.0,0.0
+"Mann, Robert","Mann, Robert",1,0,1,0.0,0.0014420851651379312
+"Taylor, Clifton","Taylor, Clifton",1,0,1,0.0,0.0023452981135692395
+"Brugger, Janai","Brugger, Janai",0,2,2,0.5,0.0
+"Robbins, Gerald","Robbins, Gerald",1,0,1,0.0,0.007555586720427696
+"Hayden, Melissa","Hayden, Melissa",0,1,1,0.0,0.0
+"D'Amboise, Jacques","D'Amboise, Jacques",1,0,1,0.0,0.0014420851651379312
+"Dettra, Scott","Dettra, Scott",1,0,1,0.0,0.022927915847082328
+"Smith, Wellington","Smith, Wellington",0,2,2,0.5,0.0
+"Kuyper, L. William","Kuyper, L. William",1,0,1,0.0,0.043507043675644286
+"Seefried, Irmgard","Seefried, Irmgard",0,1,1,0.0,0.0
+"Smith, Harold Osborn","Smith, Harold Osborn",1,0,1,0.0,0.0014420851651379312
+"Crooks, Richard","Crooks, Richard",1,0,1,0.0,0.004971135791078535
+"Tentoni, Rosa","Tentoni, Rosa",0,1,1,0.0,0.0
+"Shaughnessy, Ed","Shaughnessy, Ed",1,0,1,0.0,0.0021478952903260535
+"Luxon, Benjamin","Luxon, Benjamin",0,1,1,0.0,0.0
+"Nassief, Kelley","Nassief, Kelley",0,1,1,0.0,0.0
