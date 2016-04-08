@@ -6,7 +6,7 @@ The historical concert program data published by the New York Philharmonic upon 
 
 The Metadata is maintained by the New York Philharmonic Leon Levy Digital Archives team who have released many interesting datasets relating to the history of the orchestra [http://archives.nyphil.org/index.php/open-data](over the last number of years).
 
-[[Poster PDF]()] [[iPython Notebook](https://github.com/eamonnbell/nypposter/blob/master/nyphil_programs.ipynb)]
+[[Poster PDF](https://github.com/eamonnbell/nypposter/blob/master/poster/poster.pdf)] [[iPython Notebook](https://github.com/eamonnbell/nypposter/blob/master/nyphil_programs.ipynb)]
 
 ![](https://raw.githubusercontent.com/eamonnbell/nypposter/master/poster/poster.png)
 
